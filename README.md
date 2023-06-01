@@ -1,10 +1,13 @@
-### Hi Everyone 👋  this is Vamsi Krishna - 
+### Hi Everyone 👋  this is Vamsi Krishna 
+
 LinkedIn: https://www.linkedin.com/in/vamsikrishna-sangati-a88b28a1 | Email: vamsikrishna0248@gmail.com
 
 
 AS an AWS DevOps Engineer with 2.8 years of experience. I specialize in leveraging AWS services, implementing cloud solutions, and automating infrastructure deployment. Proficient in CI/CD, IaC, and containerization (Docker, Kubernetes), I excel in building scalable and secure cloud infrastructures. Collaborative and adaptable, I thrive in cross-functional teams and enjoy finding innovative solutions. Visit my GitHub and connect on LinkedIn or email to explore opportunities or discuss cloud infrastructure, AWS, or DevOps.
 
-I am vamsikrishna
+Feel free to explore my GitHub repositories and reach out to me via LinkedIn or email. I am open to exciting opportunities, collaborations, or discussions related to AWS, DevOps, and cloud infrastructure.
+
+Thank you for visiting my profile, and I look forward to connecting with you!
 
 <!--
 **sangativamsikrishna/sangativamsikrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
